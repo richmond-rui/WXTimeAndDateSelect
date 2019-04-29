@@ -1,0 +1,4 @@
+<view class="intro">欢迎使用代码片段，可在控制台查看代码片段的说明和文档</view>
+<view style="width:200rpx;height:100rpx;">
+    <time-select endYear="2030" startYear="2018" height="100" width="200" date="{{date}}" time="{{time}}" bind:timeSelectEnter="timeSelectEnter" ></time-select>
+</view>

@@ -1,0 +1,9 @@
+<picker class="time-picker" mode="multiSelector" bindchange="bindMultiPickerChange" bindcolumnchange="bindMultiPickerColumnChange" bind:tap="bindMultiPickerCancel" value="{{selTime}}" range="{{timeArray}}">
+    <view  style="height:{{height}}rpx;width:{{width}}rpx;">
+    
+    </view>
+    <!-- <view class="time-picker-value">
+        <text>{{date}} {{time}}</text> -->
+        <!-- <image src="/res/image/ic_calendar.png" /> -->
+    <!-- </view> -->
+</picker>

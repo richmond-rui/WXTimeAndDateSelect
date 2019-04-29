@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "time-select": "../comment/time-select"
+  }
+}
